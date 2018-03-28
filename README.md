@@ -1,0 +1,1 @@
+# programe6.c
